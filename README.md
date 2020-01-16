@@ -1,5 +1,5 @@
 # Rock-paper-scissors
-This simple version of rock–paper–scissors allows users to play against the computer.
+This simple version of rock–paper–scissors allows users to play against the computer. [Click here](https://lisseteventura.github.io/rock-paper-scissor/) to view.
 
 
 ## Technologies used
